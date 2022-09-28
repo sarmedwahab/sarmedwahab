@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarmedwahab
-- 👀 I’m interested in machine learning using MATLAB and Python. Mainly, my area of interest in machine learning is Neural networks and Deep Learning.
+- 👀 I’m interested in machine learning using MATLAB and Python. Mainly, my area of interest in machine learning is Neural networks and Deep Learning and hyrbid ANN models developed by using metaheuristics and ANN.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on applications of machine learning in dealing with natural disasters and civil engineering problems.
 - 📫 How to reach me ...
